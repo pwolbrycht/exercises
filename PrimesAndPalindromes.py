@@ -3,9 +3,6 @@
 # A prime number is a natural number that is divisible only by 1 and itself (2, 3, 5, 7, 11, ...).
 # A palindrome is a string that is read equally in both directions (for example, ABBA).
 
-# Pawel Olbrycht for Intetics Inc.
-# 17.04.2018
-
 import time
 from itertools import combinations_with_replacement
 from itertools import compress
