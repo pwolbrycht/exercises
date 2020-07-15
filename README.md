@@ -1,1 +1,2 @@
-# In this repo I'm showing some cool tasks I've done, e.g. basic algorithms.
+# exercises
+complex algorithms written in python, some are hackerrank tasks
